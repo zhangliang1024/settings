@@ -186,8 +186,12 @@
           <option name="url" value="ssh://git@gitlab.liangzixin.top:2289/lzx-ci-sample/db-sample-entity.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.liangzixin.top/diving/study.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\User\sample" />
+    <option name="cloneParentDir" value="E:\xue\1" />
   </component>
 </application>
