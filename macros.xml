@@ -1,7 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Reload">
-      <action id="CompileDirty" />
-    </macro>
-  </component>
-</application>
